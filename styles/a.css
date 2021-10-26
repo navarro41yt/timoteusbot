@@ -18,3 +18,15 @@ a:hover{
 a:visited{
     text-decoration: none;
 }
+
+.unaviable{
+    color: rgb(255, 131, 131);
+    text-decoration: none;
+    transition: 500ms;
+}
+
+.unaviable:hover{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+    transition: 500ms;
+}
