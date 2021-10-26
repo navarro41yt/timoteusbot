@@ -1,0 +1,20 @@
+.yt{
+    color: red;
+    font-style: italic;
+}
+
+a{
+    color: rgb(151, 164, 209);
+    text-decoration: none;
+    transition: 500ms;
+}
+
+a:hover{
+    color: rgb(62, 92, 255);
+    text-decoration: underline;
+    transition: 500ms;
+}
+
+a:visited{
+    text-decoration: none;
+}
